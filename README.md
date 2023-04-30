@@ -11,7 +11,7 @@
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/hasanelmestrah/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
-<a href="https://www.instagram.com/hasanelmestrah/?igshid=YmMyMTA2M2Y%3D" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/hasan_mestrah/?igshid=YmMyMTA2M2Y%3D" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 # OS:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br>

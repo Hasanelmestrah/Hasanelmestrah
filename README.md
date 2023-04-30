@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+- 👋 Hi, I’m @hasanelmestrah
+- 👀 I’m interested in Web Development & Mobile App.
+- 💻 I have experience working with MERN Stack, Lamp Stack and WordPress.
+- 🤝 I love helping others to reach their goals.
+- 🔭 I'm learning now.
+- :heart: You can follow me on LinkedIn or Instagram for more information.
+
+
 
 
 ## 🌐 Socials:
